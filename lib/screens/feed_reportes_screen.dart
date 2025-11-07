@@ -6,7 +6,7 @@ class FeedReportesScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // Lista de reportes de ejemplo
+    
     final reportes = [
       {
         "nombre": "Juan Pérez",
